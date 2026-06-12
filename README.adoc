@@ -6,3 +6,10 @@
 System Design социальной сети для курса по System Design
 
 image:https://img.shields.io/badge/License-MIT-black?style=for-the-badge[MIT License, link="./LICENSE"]
+
+
+== функциональные требования
+
+== нефункциональные требования
+
+== расчет нагрузки
