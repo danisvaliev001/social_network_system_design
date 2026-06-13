@@ -53,3 +53,4 @@ image:https://img.shields.io/badge/License-MIT-black?style=for-the-badge[MIT Lic
 == нефункциональные требования
 
 == расчет нагрузки
+* 10000000 DAU
